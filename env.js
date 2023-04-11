@@ -1,1 +1,1 @@
-BASE_BE_URL = "https://live"
+BASE_BE_URL = "https://livecodes.codes"
